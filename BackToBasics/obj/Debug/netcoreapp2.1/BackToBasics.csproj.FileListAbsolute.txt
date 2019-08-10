@@ -1,0 +1,11 @@
+E:\My Work\ObjectOrientedProgramming\BacktoBasics\BackToBasics\bin\Debug\netcoreapp2.1\BackToBasics.deps.json
+E:\My Work\ObjectOrientedProgramming\BacktoBasics\BackToBasics\bin\Debug\netcoreapp2.1\BackToBasics.runtimeconfig.json
+E:\My Work\ObjectOrientedProgramming\BacktoBasics\BackToBasics\bin\Debug\netcoreapp2.1\BackToBasics.runtimeconfig.dev.json
+E:\My Work\ObjectOrientedProgramming\BacktoBasics\BackToBasics\bin\Debug\netcoreapp2.1\BackToBasics.dll
+E:\My Work\ObjectOrientedProgramming\BacktoBasics\BackToBasics\bin\Debug\netcoreapp2.1\BackToBasics.pdb
+E:\My Work\ObjectOrientedProgramming\BacktoBasics\BackToBasics\obj\Debug\netcoreapp2.1\BackToBasics.csprojAssemblyReference.cache
+E:\My Work\ObjectOrientedProgramming\BacktoBasics\BackToBasics\obj\Debug\netcoreapp2.1\BackToBasics.csproj.CoreCompileInputs.cache
+E:\My Work\ObjectOrientedProgramming\BacktoBasics\BackToBasics\obj\Debug\netcoreapp2.1\BackToBasics.AssemblyInfoInputs.cache
+E:\My Work\ObjectOrientedProgramming\BacktoBasics\BackToBasics\obj\Debug\netcoreapp2.1\BackToBasics.AssemblyInfo.cs
+E:\My Work\ObjectOrientedProgramming\BacktoBasics\BackToBasics\obj\Debug\netcoreapp2.1\BackToBasics.dll
+E:\My Work\ObjectOrientedProgramming\BacktoBasics\BackToBasics\obj\Debug\netcoreapp2.1\BackToBasics.pdb
