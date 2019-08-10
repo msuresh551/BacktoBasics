@@ -13,6 +13,7 @@ namespace BackToBasics
             obj.defaultIntegervalue();
             var otherType = (OtherTypes)container.GetInstance(typeof(OtherTypes));
 
+            var Testing =  container.GetInstance<OtherTypes>();
 
             Console.ReadLine();
         }

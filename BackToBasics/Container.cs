@@ -7,6 +7,11 @@ namespace BackToBasics
 {
     public class Container
     {
+        public T GetInstance<T>()
+        {
+            return (T)GetInstance(typeof(T));
+        }
+
         public object GetInstance(Type type)
         {
             var constructors = type.GetConstructors().OrderByDescending(c => c.GetParameters().Length).FirstOrDefault();
